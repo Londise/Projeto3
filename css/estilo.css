@@ -1,0 +1,16 @@
+
+#calc{
+    background-color: aqua;
+
+}
+
+#calc:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+#resultado{
+    font-size: 30px;
+    color: blue;
+    margin-left: 100px;
+}
